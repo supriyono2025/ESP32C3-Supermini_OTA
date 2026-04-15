@@ -1,0 +1,7 @@
+{
+  "version": "1.1",
+  "firmware_url": "https://raw.githubusercontent.com/supriyono2025/ESP32C3-Supermini_OTA/main/PIR_BASIC_NO_WEB_Server_R1.ino.bin",
+  "allowed_devices": [
+    "58B4A8"
+  ]
+}
